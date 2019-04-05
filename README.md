@@ -1,1 +1,1 @@
-# brainjs-playground
+# Brain.js playground
